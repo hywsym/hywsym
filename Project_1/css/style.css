@@ -1,0 +1,32 @@
+.float_left {
+    float: left;
+}
+.margin_set {
+    margin: 15px 0px 50px 60px;
+}
+.button_set {
+    height: 25px;
+    width: 45px;
+    background-color: steelblue;
+    color: white;
+    border: 0px;
+    border-radius: 10%;
+    float: right;
+}
+a {
+    text-decoration: none;
+    padding: 0px 0px 0px 10px;
+}
+.label_a {
+    font-family: 黑体;
+    font-weight: bold;
+}
+.label_b {
+    color: lightslategrey;
+    font-size: 12px;
+    float: right;
+}
+article {
+    width: 740px;
+    margin: 0 auto;
+}
